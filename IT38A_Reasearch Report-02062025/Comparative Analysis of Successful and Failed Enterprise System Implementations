@@ -41,3 +41,28 @@ Stock price decline: Investors reacted negatively, causing a drop in share value
 
 
 d. Comparative Analysis
+                      Microsoft (Success)                                             Revlon (Failure)
+
+Similarities         Both aimed to unify operations and improve data visibility.      Both targeted large-scale ERP integration.
+
+Differences          Agile, phased rollout with employee buy-in.	                     Rushed, top-down implementation with poor planning.
+
+Customization       Minimal customizations to align with ERP best practices.          Data migration issues and system failures.
+
+Leadership &        Clear vision, strong executive support.                           Unrealistic expectations and lack of risk management.
+Governance
+
+
+d.3. Key Takeaways & Lessons Learned
+1.What did the successful case do right?
+Strong leadership with a clear vision and structured roadmap.
+
+2. What went wrong in the failed case?
+Lack of proper testing resulted in system failures.
+
+3.How can future implementations avoid similar failures?
+Companies should prioritize phased rollouts to minimize risks.
+
+
+
+
