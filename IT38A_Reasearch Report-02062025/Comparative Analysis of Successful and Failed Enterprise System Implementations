@@ -29,4 +29,10 @@ c.2. Implementation Process & Challenges
 Revlon ERP implementation faced significant challenges due to a rushed timeline compressing a four-year project into just 18 months to meet post-merger deadlines. Integration failures arose as SAP clashed with legacy systems, leading to order-processing errors. Poor data migration resulted from improperly cleansed and unstandardized inventory data from Elizabeth Arden. Employee resistance further compounded issues, as inadequate training led to manual workarounds and eventual system abandonment. Additionally, testing neglect skipping end-to-end testing to meet deadlines—allowed critical flaws to go undetected, ultimately contributing to the project's failure.
 
 c.3. Key Failure Factors
+Unrealistic Deadlines: Prioritized speed over stability.
+Inadequate Change Management: No structured training for employees.
+Lack of thorough testing: Critical system defects were not identified before deployment.
+Supply chain disruptions: System failures led to production delays and order fulfillment issues.
+
+c.4. Outcomes & Consequences
 
