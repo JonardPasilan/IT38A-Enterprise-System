@@ -53,9 +53,9 @@
             <h2>MedTrack Admin</h2>
             <a href="inventory.php" class="nav-link">📦 Inventory</a>
             <a href="orders.php" class="nav-link">📋 Orders</a>
-            <a href="billing.html" class="nav-link">💵 Billing</a>
-            <a href="reports.html" class="nav-link">📊 Reports</a>
-            <a href="reminders.html" class="nav-link">⏰ Reminders</a>
+            <a href="billing.php" class="nav-link">💵 Billing</a>
+            <a href="reports.php" class="nav-link">📊 Reports</a>
+            <a href="reminders.php" class="nav-link">⏰ Reminders</a>
             
         </div>
         <div class="main-content">
