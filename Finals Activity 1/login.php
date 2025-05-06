@@ -167,7 +167,7 @@
 
         <div class="text-center text-white mt-2 mb-2">OR</div>
 
-        <button type="button" class="btn-register">Register</button>
+        <button type="button" class="btn-register" onclick="window.location.href='register.php'">Register</button>
       </form>
     </div>
   </div>
