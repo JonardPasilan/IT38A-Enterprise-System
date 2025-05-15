@@ -179,7 +179,6 @@ $reminders = $stmt->fetchAll();
         <a href="dashboard.php" class="sidebar-link">Order Medicines</a>
         <a href="medication-reminders.php" class="sidebar-link">Medication Reminders</a>
         <a href="prescription-history.php" class="sidebar-link">Prescription History</a>
-        <button>Orders</button>
         <div class="bottom-buttons">
             <button>Settings</button>
             <a href="logout.php" class="sidebar-link">Log-out</a>
